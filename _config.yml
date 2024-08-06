@@ -37,12 +37,12 @@ disqus:
 # facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
-linkedin: https://www.linkedin.com/in/gabriellemalate/
-github: https://github.com/gabriellemalate
+linkedin: gabriellemalate
+github: gabriellemalate
 email: gb@gabriellemalate.xyz
 
 authors:
-  johndoe:
+  gabriellemalate:
     name: Gabrielle Malate
     bio: Full Stack Developer
     external-image: false
