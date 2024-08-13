@@ -4,10 +4,10 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Seasoned software engineer with over 10 years of experience in JavaScript (Node.js, React.js, Angular), focusing on Full Stack development and System Architecture. Specializing in Design Patterns, Microservices Architecture, Performance, and Scalability. Passionate about continuous improvement, embracing both teaching and learning with a deep interest in Machine Learning, and a commitment to integrating cutting-edge technologies.</p>
-
+<p>Seasoned software engineer with years of hands on experience in JavaScript (Node.js, React.js, Next), focusing on UX/UI development and System Architecture. Specializing in Design Patterns, Microservices Architecture, Performance, and Scalability. Passionate about continuous improvement, embracing both teaching and learning with a deep interest in Machine Learning, and a commitment to integrating cutting-edge technologies.</p>
+<!--
 <p>During university, I was already sought after for software development and improving site architectures. I then spent 5 years at a consultancy specializing in full-stack development with JavaScript/TypeScript, Node.js, and React Native for hybrid mobile and web applications. I learned to enhance site traffic and ranking through SEO and SEM. Later, I transitioned into a Marketing Operations Engineer role at a large commercial real estate company. After pursuing AWS certifications and completing a Software Engineering intensive, I chose to freelance, leveraging my technical expertise and networking skills to maintain a steady client base. I'm now excited to explore contract or full-time opportunities to further apply my proficiencies</p>
-
+-->
 <h2>Skills</h2>
 
 <ul class="skill-list">
