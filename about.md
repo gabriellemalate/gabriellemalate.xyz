@@ -22,8 +22,8 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Politi.cc</a></li>
-	<li><a href="https://github.com/">ShoreFox</a></li>
-	<li><a href="https://github.com/">FastTube</a></li>
 	<li><a href="https://github.com/">MoodMemory</a></li>
+	<li><a href="https://github.com/">React Native Game Center</a></li>
+	<li><a href="https://github.com/">WarehouseStock</a></li>
+	<li><a href="https://github.com/">StreamTube</a></li>
 </ul>
