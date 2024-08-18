@@ -22,8 +22,10 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">MoodMemory</a></li>
-	<li><a href="https://github.com/">React Native Game Center</a></li>
-	<li><a href="https://github.com/">WarehouseStock</a></li>
-	<li><a href="https://github.com/">StreamTube</a></li>
+	<li><a href="[https://github.com/gabriellemalate/MoodMemory">MoodMemory</a></li>
+	<li><a href="https://github.com/">React Native - Game Center</a></li>
+	<li><a href="https://github.com/gabriellemalate/WarehouseStock-Client">WarehouseStock</a></li>
+	<li><a href="https://github.com/">React Native - Meditations</a></li>
+	<li><a href="https://github.com/gabriellemalate/Ocean-Oracle">OceanOracle Cruise Quiz</a></li>
+	<li><a href="https://github.com/">React Native - Social Media Clone</a></li>
 </ul>
