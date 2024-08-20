@@ -20,10 +20,12 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="[https://github.com/gabriellemalate/MoodMemory">MoodMemory</a></li>
-	<li><a href="https://github.com/">React Native - Game Center</a></li>
+	<li><a href="https://github.com/gabriellemalate/MoodMemory">MoodMemory</a></li>
+	<li><a href="https://github.com/gabriellemalate/Camera-App">
+		Camera Mobile App - iOS & Android
+	</a></li>
 	<li><a href="https://github.com/gabriellemalate/WarehouseStock-Client">WarehouseStock</a></li>
-	<li><a href="https://github.com/">React Native - Meditations</a></li>
+	<li><a href="https://github.com/gabriellemalate/React-Native_Meditation-App">React Native - Meditations</a></li>
 	<li><a href="https://github.com/gabriellemalate/Ocean-Oracle">OceanOracle Cruise Quiz</a></li>
-	<li><a href="https://github.com/">React Native - Social Media Clone</a></li>
+	<li><a href="https://github.com/gabriellemalate/InstagramClone">React Native - Social Media Clone</a></li>
 </ul>
