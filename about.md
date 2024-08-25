@@ -18,14 +18,22 @@ layout: page
 </ul>
 
 <h2>Projects</h2>
+<p>Please note, that some projects are in the process of being transferred to GitHub for deploymemt, and others are features being anonymized/altered - where confidentiality agreements require that the details remain between me and the company - into public viewing.</p>
+<p>See <a href="https://gabriellemalate.xyz/projects/">Projects page</a> for summary & stack</p>
 
 <ul>
+	<li><a href="">AI-Article-Generator</a></li>
 	<li><a href="https://github.com/gabriellemalate/MoodMemory">MoodMemory</a></li>
 	<li><a href="https://github.com/gabriellemalate/Camera-App">
 		Camera Mobile App - iOS & Android
 	</a></li>
 	<li><a href="https://github.com/gabriellemalate/WarehouseStock-Client">WarehouseStock</a></li>
+	<li><a href="https://github.com/gabriellemalate/stream-tube">StreamTube UI</a></li>
 	<li><a href="https://github.com/gabriellemalate/React-Native_Meditation-App">React Native - Meditations</a></li>
 	<li><a href="https://github.com/gabriellemalate/Ocean-Oracle">OceanOracle Cruise Quiz</a></li>
 	<li><a href="https://github.com/gabriellemalate/InstagramClone">React Native - Social Media Clone</a></li>
+	<li><a href="https://github.com/gabriellemalate/React-Native_Mobile-Quiz-App">React Native - Web Dev Mobile Quiz</a></li>
+	<li><a href="">Video Streaming Service</a></li>
+	<li><a href="">Android News App</a></li>
+	<li><a href="">Music Streaming Service</a></li>
 </ul>
